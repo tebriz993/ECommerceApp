@@ -1,0 +1,1 @@
+This project is built with a 5-layer architecture, consisting of the Entities, DataAccess, Core, BusinessLogic, and UI layers. It uses ASP.NET MVC technology and connects to a SQL Server database. For back-end development, JavaScript (jQuery) has been used.
