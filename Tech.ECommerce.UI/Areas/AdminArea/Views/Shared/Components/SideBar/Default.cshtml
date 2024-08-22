@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewData["Title"] = "Default";
+   
+}
+
+<div class="vertical-menu">
+
+    <div data-simplebar="init" class="h-100">
+        <div class="simplebar-wrapper" style="margin: 0px;">
+            <div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask">
+                <div class="simplebar-offset" style="right: -16.6667px; bottom: 0px;">
+                    <div class="simplebar-content-wrapper" style="height: 100%; overflow: hidden scroll;">
+                        <div class="simplebar-content" style="padding: 0px;">
+
+                            <!--- Sidemenu -->
+                            <div id="sidebar-menu" class="mm-active">
+                                <!-- Left Menu Start -->
+                                <ul class="metismenu list-unstyled mm-show" id="side-menu">
+                                    <li class="menu-title">Main</li>
+
+                                    
+
+                                    <li>
+                                        <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                            <i class="mdi mdi-package-variant"></i>
+                                            <span>Product</span>
+                                        </a>
+                                        <ul class="sub-menu mm-collapse" aria-expanded="false">
+                                            <li><a asp-action="addproduct" asp-controller="product" asp-area="adminarea" >Add Product</a></li>
+                                            <li><a asp-action="product" asp-controller="product" asp-area="adminarea" >List Product</a></li>
+                                           
+                                        </ul>
+                                    </li>
+
+                                    <!-- Calender -->
+                                    <li>
+                                        <a href="calendar.html" class=" waves-effect">
+                                            <i class="mdi mdi-calendar"></i>
+                                            <span>Category</span>
+                                        </a>
+                                    </li>
+
+                                    <li>
+                                        <a href="calendar.html" class=" waves-effect">
+                                            <i class="mdi mdi-calendar"></i>
+                                            <span>Orders</span>
+                                        </a>
+                                    </li>
+
+
+                                    
+
+                                    <!-- Multi Level -->
+                                    <li>
+                                        <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                            <i class="mdi mdi-share-variant"></i>
+                                            <span>Multi Level</span>
+                                        </a>
+                                        <ul class="sub-menu mm-collapse" aria-expanded="true">
+                                            <li><a href="javascript: void(0);">Level 1.1</a></li>
+                                            <li>
+                                                <a href="javascript: void(0);" class="has-arrow">Level 1.2</a>
+                                                <ul class="sub-menu mm-collapse" aria-expanded="true">
+                                                    <li><a href="javascript: void(0);">Level 2.1</a></li>
+                                                    <li><a href="javascript: void(0);">Level 2.2</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <!-- Sidebar -->
+                        </div>
+                    </div>
+                </div>
+            </div><div class="simplebar-placeholder" style="width: auto; height: 978px;"></div>
+        </div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar" style="transform: translate3d(0px, 0px, 0px); display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: visible;"><div class="simplebar-scrollbar" style="height: 59px; transform: translate3d(0px, 0px, 0px); display: block;"></div></div>
+    </div>
+</div>

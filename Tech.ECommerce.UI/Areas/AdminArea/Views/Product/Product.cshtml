@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Product";
+    Layout = "~/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml";
+}
+ <div class="row">
+    <div class="col-12">
+        <div class="page-title-box d-flex align-items-center justify-content-between">
+            <h4 class="mb-0 font-size-18">Datatable</h4>
+            <div class="page-title-right">
+                <ol class="breadcrumb m-0">
+                    <li class="breadcrumb-item"><a href="javascript: void(0);">Uniser E-Commerce</a></li>
+                    <li class="breadcrumb-item"><a href="javascript: void(0);">Product</a></li>
+                    <li class="breadcrumb-item active">Product List</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Default Datatable</h5>
+               
+                <div class="table-responsive">
+                    <div id="datatable_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer">
+                      
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <table id="product-datatable" class="table table-bordered dataTable no-footer table-striped " role="grid" aria-describedby="datatable_info">
+                                    <thead class="bg-primary text-light">
+                                        <tr role="row">
+                                            <th class="sorting_asc" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Name: activate to sort column descending" style="width: 140.583px;">Id</th>
+                                            <th class="sorting_asc" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Name: activate to sort column descending" style="width: 140.583px;">Product Name</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Position: activate to sort column ascending" style="width: 220.167px;">Price</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Age: activate to sort column ascending" style="width: 44.25px;">Category</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Office: activate to sort column ascending" style="width: 101.292px;">Description</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Office: activate to sort column ascending" style="width: 101.292px;">Image</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Office: activate to sort column ascending" style="width: 101.292px;">Edit</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Office: activate to sort column ascending" style="width: 101.292px;">Delete</th>
+                                          
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                      
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12 col-md-5">
+                                <div class="dataTables_info" id="datatable_info" role="status" aria-live="polite">Showing 1 to 10 of 57 entries</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade bs-example-modal-center" tabindex="-1" aria-labelledby="mySmallModalLabel" style="display: none;" aria-hidden="true" id="image-modal">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title align-self-center" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" id="close-modal-btn"></button>
+            </div>
+            <div class="modal-body">
+               <img src="#" alt="Alternate Text" id="image-product" style="width:80%; object-fit:cover"/>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+
+@section scripts {
+    <script src="~/AdminTemplates/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="~/AdminTemplates/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/AdminTemplates/libs/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/AdminTemplates/libs/datatables.net-buttons-bs4/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/AdminTemplates/libs/jszip/jszip.min.js"></script>
+    <script src="~/AdminTemplates/libs/pdfmake/build/pdfmake.min.js"></script>
+    <script src="~/AdminTemplates/libs/pdfmake/build/vfs_fonts.js"></script>
+    <script src="~/AdminTemplates/libs/datatables.net-buttons/js/buttons.html5.min.js"></script>
+    <script src="~/AdminTemplates/libs/datatables.net-buttons/js/buttons.print.min.js"></script>
+    <script src="~/AdminTemplates/libs/datatables.net-buttons/js/buttons.colVis.min.js"></script>
+    <script src="~/AdminTemplates/libs/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/AdminTemplates/libs/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/AdminTemplates/js/pages/datatables.init.js"></script>
+    <script src="~/js/productTable.js"></script>
+}

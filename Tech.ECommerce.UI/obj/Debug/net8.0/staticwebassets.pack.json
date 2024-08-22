@@ -1,0 +1,1281 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tech.ECommerce.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tech.ECommerce.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\css\\app-dark.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\css\\app-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\css\\app-rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\css\\app-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2d41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.html",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.html"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfont3e71.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfont3e71.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfont3e71.html",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfont3e71.html"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfont3e71.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfont3e71.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfont3e71.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfont3e71.woff"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\typicons.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\typicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\typicons.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\typicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\typicons.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\typicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\typicons.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\typicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\fonts\\typiconsd41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\typiconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\bell.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\bell.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\error.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\error.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\flags\\french.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\french.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\layouts\\layout-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\layouts\\layout-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\layouts\\layout-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\layouts\\layout-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\layouts\\layout-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\layouts\\layout-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\logo-sm-dark.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\logo-sm-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\logo-sm.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\logo-sm.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\project-logo\\project1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\project-logo\\project1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\project-logo\\project2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\project-logo\\project2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\project-logo\\project3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\project-logo\\project3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\project-logo\\project4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\project-logo\\project4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\server-error.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\server-error.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\signature.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\small\\img-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\small\\img-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\small\\img-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\small\\img-4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\small\\img-5.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\small\\img-6.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\small\\img-7.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\small\\img-8.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\trophy.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\trophy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\users\\user-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\users\\user-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\user-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\users\\user-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\user-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\users\\user-4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\user-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\users\\user-5.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\user-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\users\\user-6.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\user-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\users\\user-7.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\user-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\images\\users\\user-8.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\user-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\app.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\calendar.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\calendar.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\chartist.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\chartist.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\chartjs.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\chartjs.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\clipboard.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\clipboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\dashboard.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\dashboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\dashboard2.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\dashboard2.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\datatables.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\datatables.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\email-editor.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\email-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\flot.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\flot.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\fontawesome.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\fontawesome.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\form-advanced.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-advanced.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\form-editor.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\form-fileuploads.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-fileuploads.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\form-repeater.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-repeater.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\form-validation.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-validation.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\form-wizard.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-wizard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\form-xeditable.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-xeditable.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\gmaps.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\gmaps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\jquery-knob.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\jquery-knob.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\lightbox.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\lightbox.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\materialdesign.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\materialdesign.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\morris.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\morris.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\nestable-init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\nestable-init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\peity.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\peity.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\profile.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\profile.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\range-sliders.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\range-sliders.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\rating-init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\rating-init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\session-timeout.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\session-timeout.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\sparklines.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\sparklines.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\sweet-alerts.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\sweet-alerts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\table-editable.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\table-editable.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\table-responsive.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\table-responsive.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\toasts.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\toasts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\tooltipster.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\tooltipster.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\tour.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\tour.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\treeview.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\treeview.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\js\\pages\\vector-maps.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\vector-maps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@curiosityx\\bootstrap-session-timeout\\index.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@curiosityx\\bootstrap-session-timeout\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\bootstrap\\main.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\bootstrap\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\bootstrap\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\bootstrap\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\core\\main.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\core\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\core\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\core\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\daygrid\\main.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\daygrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\daygrid\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\daygrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\interaction\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\interaction\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\timegrid\\main.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\timegrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\timegrid\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\timegrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-in-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-in-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-merc-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-merc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\rwd-table\\rwd-table.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\rwd-table\\rwd-table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\admin-resources\\rwd-table\\rwd-table.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\rwd-table\\rwd-table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap-editable\\css\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap-editable\\css\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap-editable\\img\\clear.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap-editable\\img\\clear.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap-editable\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap-editable\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap-editable\\js\\index.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap-editable\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap-maxlength\\bootstrap-maxlength.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap-maxlength\\bootstrap-maxlength.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\chartist-plugin-tooltips\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\chartist-plugin-tooltips\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\chartist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\chartist\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\clipboard\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\clipboard\\clipboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons-bs4\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons-bs4\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons-bs4\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons-bs4\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-responsive-bs4\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-responsive-bs4\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-responsive-bs4\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-responsive-bs4\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\datatables.net\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\dropify\\css\\dropify.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropify\\css\\dropify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\dropify\\fonts\\dropify.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropify\\fonts\\dropify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\dropify\\fonts\\dropify.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropify\\fonts\\dropify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\dropify\\fonts\\dropify.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropify\\fonts\\dropify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\dropify\\fonts\\dropify.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropify\\fonts\\dropify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\dropify\\js\\dropify.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropify\\js\\dropify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\dropzone\\min\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropzone\\min\\dropzone.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\dropzone\\min\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropzone\\min\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\flot-charts\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flot-charts\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\flot-charts\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flot-charts\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\flot-charts\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flot-charts\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\flot-charts\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flot-charts\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\flot-charts\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flot-charts\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\flot-charts\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flot-charts\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\flot-charts\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flot-charts\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\flot.curvedlines\\curvedLines.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flot.curvedlines\\curvedLines.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\gmaps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\gmaps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\inputmask\\min\\jquery.inputmask.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\inputmask\\min\\jquery.inputmask.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\ion-rangeslider\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\ion-rangeslider\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\ion-rangeslider\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\ion-rangeslider\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\jquery.barrating.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\jquery.barrating.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-1to10.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-1to10.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-horizontal.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-horizontal.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-movie.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-movie.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-pill.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-pill.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-reversed.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-reversed.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-square.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bars-square.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bootstrap-stars.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\bootstrap-stars.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\css-stars.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\css-stars.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\fontawesome-stars-o.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\fontawesome-stars-o.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\fontawesome-stars.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-bar-rating\\themes\\fontawesome-stars.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-steps\\build\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-steps\\build\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery-ui-dist\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-ui-dist\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery.flot.tooltip\\js\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery.flot.tooltip\\js\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery.repeater\\jquery.repeater.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery.repeater\\jquery.repeater.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jstree\\jstree.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jstree\\jstree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jstree\\themes\\default\\32px.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jstree\\themes\\default\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jstree\\themes\\default\\40px.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jstree\\themes\\default\\40px.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jstree\\themes\\default\\style.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jstree\\themes\\default\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jstree\\themes\\default\\throbber.gif",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jstree\\themes\\default\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\jszip\\jszip.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jszip\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\moment\\min\\moment.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\moment\\min\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\morris.js\\morris.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\morris.js\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\nestable2\\jquery.nestable.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\nestable2\\jquery.nestable.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\nestable2\\jquery.nestable.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\nestable2\\jquery.nestable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\node-waves\\waves.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\node-waves\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\parsleyjs\\parsley.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\parsleyjs\\parsley.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\pdfmake\\build\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\pdfmake\\build\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\pdfmake\\build\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\pdfmake\\build\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\prismjs\\prism.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\prismjs\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\prismjs\\themes\\prism.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\prismjs\\themes\\prism.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\shepherd.js\\css\\shepherd.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\shepherd.js\\css\\shepherd.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\shepherd.js\\js\\shepherd.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\shepherd.js\\js\\shepherd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\simplebar\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\simplebar\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\spectrum-colorpicker2\\spectrum.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\spectrum-colorpicker2\\spectrum.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\spectrum-colorpicker2\\spectrum.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\spectrum-colorpicker2\\spectrum.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\table-edits\\build\\table-edits.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\table-edits\\build\\table-edits.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\AdminTemplates\\libs\\tippy.js\\tippy.all.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\tippy.js\\tippy.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\js\\productTable.js",
+      "PackagePath": "staticwebassets\\js\\productTable.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\09ba02a5-e03b-4286-aebb-f64817f12995_WhatsApp Image 2024-05-30 at 00.14.30.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\09ba02a5-e03b-4286-aebb-f64817f12995_WhatsApp Image 2024-05-30 at 00.14.30.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\2468f242-6eff-4c36-8928-b65e3658bf28_WhatsApp Image 2024-05-29 at 23.14.48.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\2468f242-6eff-4c36-8928-b65e3658bf28_WhatsApp Image 2024-05-29 at 23.14.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\47d3c7fa-87b0-41be-b753-7173d852d8bc_WhatsApp Image 2024-05-29 at 23.14.48.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\47d3c7fa-87b0-41be-b753-7173d852d8bc_WhatsApp Image 2024-05-29 at 23.14.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\4f8783b7-7e7b-4abb-866b-ee3032aa18b8_WhatsApp Image 2024-05-29 at 23.14.48.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\4f8783b7-7e7b-4abb-866b-ee3032aa18b8_WhatsApp Image 2024-05-29 at 23.14.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\7c4e77f1-88ff-4be2-b17e-9b37203e35a9_WhatsApp Image 2024-05-29 at 23.14.48.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\7c4e77f1-88ff-4be2-b17e-9b37203e35a9_WhatsApp Image 2024-05-29 at 23.14.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\81dac254-7d85-4cd1-b3ac-5348243ef4ce_linkedin banner 2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\81dac254-7d85-4cd1-b3ac-5348243ef4ce_linkedin banner 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\9046854a-9a9d-4cbd-ad7d-e9d615069de4_WhatsApp Image 2024-05-29 at 23.14.48.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\9046854a-9a9d-4cbd-ad7d-e9d615069de4_WhatsApp Image 2024-05-29 at 23.14.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\9619da6c-990d-4c21-b632-c397aacbdc2a_linkedin banner 2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9619da6c-990d-4c21-b632-c397aacbdc2a_linkedin banner 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\b59c4f0b-2c08-4519-911e-f6fa0ae8cf78_WhatsApp Image 2024-05-29 at 23.14.48.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\b59c4f0b-2c08-4519-911e-f6fa0ae8cf78_WhatsApp Image 2024-05-29 at 23.14.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\c3ed5046-14ec-450d-a6cb-145167cf9c31_WhatsApp Image 2024-05-29 at 23.14.48.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\c3ed5046-14ec-450d-a6cb-145167cf9c31_WhatsApp Image 2024-05-29 at 23.14.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\cc7dbe14-0c0a-45a2-aa2b-e764d4b13263_WhatsApp Image 2024-05-29 at 23.14.48.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\cc7dbe14-0c0a-45a2-aa2b-e764d4b13263_WhatsApp Image 2024-05-29 at 23.14.48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\Tech.ECommerce.App\\Tech.ECommerce.UI\\wwwroot\\uploads\\deed6974-3bf3-466f-90f4-31e0c0fa9ee9_WhatsApp Image 2024-05-29 at 23.14.48.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\deed6974-3bf3-466f-90f4-31e0c0fa9ee9_WhatsApp Image 2024-05-29 at 23.14.48.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tech.ECommerce.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tech.ECommerce.UI.props",
+      "PackagePath": "build\\Tech.ECommerce.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tech.ECommerce.UI.props",
+      "PackagePath": "buildMultiTargeting\\Tech.ECommerce.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tech.ECommerce.UI.props",
+      "PackagePath": "buildTransitive\\Tech.ECommerce.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

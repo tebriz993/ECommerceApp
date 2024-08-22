@@ -1,0 +1,11 @@
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\bin\Debug\net8.0\Tech.Core.deps.json
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\bin\Debug\net8.0\Tech.Core.dll
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\bin\Debug\net8.0\Tech.Core.pdb
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\obj\Debug\net8.0\Tech.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\obj\Debug\net8.0\Tech.Core.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\obj\Debug\net8.0\Tech.Core.AssemblyInfo.cs
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\obj\Debug\net8.0\Tech.Core.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\obj\Debug\net8.0\Tech.Core.dll
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\obj\Debug\net8.0\refint\Tech.Core.dll
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\obj\Debug\net8.0\Tech.Core.pdb
+C:\Users\Baku\Desktop\Tabriz WS Files\Tech.ECommerce.App\Tech.Core\obj\Debug\net8.0\ref\Tech.Core.dll
